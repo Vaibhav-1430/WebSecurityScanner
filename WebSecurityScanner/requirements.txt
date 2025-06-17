@@ -1,2 +1,9 @@
-Flask
+flask
+requests
+beautifulsoup4
+lxml
+jsPDF
+gunicorn
 flask-cors
+google-api-python-client
+openai
